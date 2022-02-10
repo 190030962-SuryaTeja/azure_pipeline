@@ -14,5 +14,4 @@ steps:
   inputs:
     script: |
       javac add.java
-      
       java add
